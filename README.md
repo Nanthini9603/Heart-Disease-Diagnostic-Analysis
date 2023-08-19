@@ -11,7 +11,6 @@ Technology - Business Intelligence
 
 Domain - Healthcare
 
-Tableau Public Dashboard link - https://public.tableau.com/app/profile/nanthini.s8783/viz/HeartDiseaseDiagnosticAnalysi
-s_16924221730460/HeartDiseaseDiagnosticAnalysis
+Tableau Public Dashboard link - https://public.tableau.com/app/profile/nanthini.s8783/viz/HeartDiseaseDiagnosticAnalysis_16924221730460/HeartDiseaseDiagnosticAnalysis
 
 Programming language used - Python
